@@ -36,3 +36,7 @@ Divs vs. Container**
 HTML (div): As <div> são usadas para criar blocos de conteúdo em uma página web. Elas são versáteis e podem ser estilizadas e posicionadas usando CSS para criar layouts complexos.
 Flutter (Container): O componente Container no Flutter é semelhante à <div> em termos de funcionalidade. Ele é usado para envolver outros widgets e controlar seu posicionamento, tamanho e estilo. Assim como as <div> podem ser estilizadas com CSS, os Containers podem receber atributos de estilo no Flutter.
 
+Divs vs. Container
+![image](https://github.com/user-attachments/assets/2308467d-c6fb-45ee-8532-4e341fcf890f)
+
+
