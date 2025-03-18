@@ -4,9 +4,9 @@
 **Comparando Elementos Widgets do Flutter com HTML**
 
 **Flutter x HTML5**
-
+<details>
 O Flutter e o HTML são duas tecnologias amplamente utilizadas para desenvolvimento de interfaces de usuário em aplicativos e páginas da web, respectivamente. Ambas as plataformas oferecem uma variedade de elementos para criação de interfaces, mas suas abordagens e implementações são diferentes.
-
+</details>
 **Estrutura de Aplicativo vs. Estrutura de Página Web**
 Flutter: No Flutter, os elementos de interface são organizados em uma hierarquia de widgets, onde cada widget representa um componente visual, como botões, contêineres, textos, etc. Essa hierarquia é definida no código do aplicativo e a interface do usuário é renderizada diretamente na tela do dispositivo.
 HTML: Em HTML, os elementos de interface são estruturados em uma página da web, onde cada elemento HTML representa uma parte da página, como cabeçalho, corpo, parágrafos, etc. A estrutura da página é definida em um arquivo HTML e renderizada pelo navegador da web.
