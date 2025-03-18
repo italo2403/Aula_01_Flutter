@@ -22,7 +22,6 @@ HTML: Em HTML, os elementos de interface são estruturados em uma página da web
 Flutter: Os widgets do Flutter oferecem uma alta flexibilidade e possibilidade de customização. Os desenvolvedores podem criar widgets personalizados e estilizá-los de acordo com suas necessidades. Além disso, o Flutter oferece uma grande variedade de widgets pré-construídos e pacotes de design para facilitar o desenvolvimento.
 HTML: Embora o HTML permita a customização de elementos usando CSS (Cascading Style Sheets), a flexibilidade é relativamente limitada em comparação com o Flutter. A customização detalhada muitas vezes requer conhecimento avançado de CSS e pode ser mais complexa de implementar.
 
-
 <details >
   
 **Layout e Posicionamento**
@@ -42,14 +41,12 @@ Flutter: O Flutter utiliza o mecanismo de renderização Skia para renderizar in
 HTML: O desempenho e a renderização em HTML dependem principalmente do navegador da web e do dispositivo em que a página está sendo exibida. Embora os navegadores modernos sejam capazes de renderizar páginas HTML de forma rápida e eficiente, o desempenho pode variar dependendo da complexidade da página e dos recursos do dispositivo
 </details>
 
-
-
 <details >
   
 **Comparando Elementos Div do HTML com Componentes do Flutter**
   
 **Flutter x DIV**
-No desenvolvimento web, as <div> são elementos fundamentais para estruturar e organizar o conteúdo em uma página HTML. No Flutter, os componentes desempenham um papel semelhante na criação de interfaces de usuário.
+No desenvolvimento web, as divs são elementos fundamentais para estruturar e organizar o conteúdo em uma página HTML. No Flutter, os componentes desempenham um papel semelhante na criação de interfaces de usuário.
 </details>
 <details >
   
