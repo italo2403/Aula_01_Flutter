@@ -4,7 +4,7 @@
 **Comparando Elementos Widgets do Flutter com HTML**
 
 **Flutter x HTML5**
-<details>
+<details open>
 O Flutter e o HTML são duas tecnologias amplamente utilizadas para desenvolvimento de interfaces de usuário em aplicativos e páginas da web, respectivamente. Ambas as plataformas oferecem uma variedade de elementos para criação de interfaces, mas suas abordagens e implementações são diferentes.
 </details>
 **Estrutura de Aplicativo vs. Estrutura de Página Web**
