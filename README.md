@@ -3,8 +3,8 @@
 
 **Comparando Elementos Widgets do Flutter com HTML**
 
-**Flutter x HTML5
-**
+**Flutter x HTML5**
+
 O Flutter e o HTML são duas tecnologias amplamente utilizadas para desenvolvimento de interfaces de usuário em aplicativos e páginas da web, respectivamente. Ambas as plataformas oferecem uma variedade de elementos para criação de interfaces, mas suas abordagens e implementações são diferentes.
 
 **Estrutura de Aplicativo vs. Estrutura de Página Web**
@@ -27,20 +27,15 @@ HTML: Em HTML, a interatividade é geralmente alcançada usando JavaScript, que 
 Flutter: O Flutter utiliza o mecanismo de renderização Skia para renderizar interfaces de usuário, o que resulta em um desempenho rápido e suave, mesmo em dispositivos com recursos limitados. Além disso, o Flutter oferece suporte a compilação AOT (Ahead-Of-Time), o que pode melhorar ainda mais o desempenho do aplicativo.
 HTML: O desempenho e a renderização em HTML dependem principalmente do navegador da web e do dispositivo em que a página está sendo exibida. Embora os navegadores modernos sejam capazes de renderizar páginas HTML de forma rápida e eficiente, o desempenho pode variar dependendo da complexidade da página e dos recursos do dispositivo
 
-**
-Comparando Elementos Div do HTML com Componentes do Flutter**
+**Comparando Elementos Div do HTML com Componentes do Flutter**
 
 **Flutter x DIV**
 No desenvolvimento web, as <div> são elementos fundamentais para estruturar e organizar o conteúdo em uma página HTML. No Flutter, os componentes desempenham um papel semelhante na criação de interfaces de usuário.
-**
-Divs vs. Container**
+
+**Divs vs. Container**
 HTML (div): As <div> são usadas para criar blocos de conteúdo em uma página web. Elas são versáteis e podem ser estilizadas e posicionadas usando CSS para criar layouts complexos.
 Flutter (Container): O componente Container no Flutter é semelhante à <div> em termos de funcionalidade. Ele é usado para envolver outros widgets e controlar seu posicionamento, tamanho e estilo. Assim como as <div> podem ser estilizadas com CSS, os Containers podem receber atributos de estilo no Flutter.
 
-Divs vs. Container
+**Divs vs. Container**
 ![image](https://github.com/user-attachments/assets/2308467d-c6fb-45ee-8532-4e341fcf890f)
-
-Divs vs. Container![image](https://github.com/user-attachments/assets/f5860eaa-5dad-4122-9a06-5a2d32f15016)
-
-
 
