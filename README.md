@@ -39,4 +39,7 @@ Flutter (Container): O componente Container no Flutter é semelhante à <div> em
 Divs vs. Container
 ![image](https://github.com/user-attachments/assets/2308467d-c6fb-45ee-8532-4e341fcf890f)
 
+Divs vs. Container![image](https://github.com/user-attachments/assets/f5860eaa-5dad-4122-9a06-5a2d32f15016)
+
+
 
